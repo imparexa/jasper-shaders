@@ -1,21 +1,53 @@
-MIT License
+# JASPER-SHADERS
+Version 1.0 | 26 October 2026
 
-Copyright (c) 2026 imparexa
+Copyright (c) 2026 Jasper Leffers (Imparexa).  
+All rights reserved, except for the permissions expressly granted below.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. COPYRIGHT HOLDER AND SCOPE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Jasper Leffers (Imparexa), the owner of the JASPER-SHADERS project (the "Licensor"), is the copyright holder for the protectable material owned by Jasper Leffers (Imparexa) in this release. This licence covers that material in the JASPER-SHADERS shaderpack, including its shader source code, configuration files, documentation and original bundled assets (the "Shaderpack"). No ownership of Minecraft, Iris, third-party material, or material not protected by copyright is claimed.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 2. PERMITTED PERSONAL USE
+
+If you lawfully obtain the Shaderpack from Jasper Leffers (Imparexa) or a source authorised by Jasper Leffers (Imparexa), you may install and use it for personal gameplay, make private backup copies, and modify your own copy for private use. You may use your installed copy while playing on multiplayer servers. This permission is personal, non-exclusive and does not permit redistribution or sublicensing.
+
+You may publish screenshots, videos and livestreams showing gameplay with the Shaderpack, including monetised gameplay content, provided you do not include or distribute the Shaderpack files or source code. This exception does not permit selling or providing paid access to the Shaderpack itself.
+
+## 3. NO REDISTRIBUTION OR REUPLOADS
+
+Without prior written permission from Jasper Leffers (Imparexa), you may not distribute, share, publish, mirror, host, reupload or otherwise provide copies of all or any substantial part of the Shaderpack to other people. This applies whether free of charge or for payment, and includes:
+
+- Download websites, marketplaces, public repositories and file-sharing sites;
+- Discord attachments or other direct file sharing;
+- Modpacks, launchers, installers, bundles or server download packages;
+- Modified versions, forks, ports, renamed versions and repackaged copies;
+- Reuse of protected Shaderpack code or assets in another distributed project.
+
+You may share a link to a download page published or authorised by Jasper Leffers (Imparexa), provided you do not host another copy or charge for access to that link.
+
+## 4. NO SALE OR COMMERCIAL DISTRIBUTION
+
+Without prior written permission from Jasper Leffers (Imparexa), you may not sell, rent, license, sublicense or commercially distribute the Shaderpack or a modified version. You may not offer it behind a paywall, subscription, paid membership, required donation, paid bundle or advertising-linked download that earns you revenue from distributing the Shaderpack. Calling a payment a donation or including the Shaderpack as a bonus does not grant permission.
+
+## 5. OWNERSHIP AND NOTICES
+
+No ownership is transferred by this licence. Do not claim the Shaderpack as your own work or remove or alter the copyright, ownership or licence notices of Jasper Leffers (Imparexa). Private modifications do not grant permission to distribute the Shaderpack or reuse its protected material in a distributed product.
+
+## 6. ADDITIONAL PERMISSION
+
+Any exception requires prior written permission from Jasper Leffers (Imparexa) that identifies the permitted activity. Contact Jasper Leffers (Imparexa) through the account or distribution page from which Jasper Leffers (Imparexa) officially publishes the Shaderpack. Silence does not constitute permission. Source-code availability alone does not grant redistribution rights. This is a restrictive licence, not an open-source licence.
+
+## 7. PREVIOUS RELEASES AND OTHER RIGHTS
+
+This licence applies to releases that Jasper Leffers (Imparexa) distributes under these terms. It does not retroactively withdraw rights validly granted under a different licence for an earlier copy. Any third-party material remains subject to its own applicable terms. Nothing in this licence limits rights or exceptions that cannot lawfully be restricted under applicable law.
+
+## 8. BREACH
+
+Permissions granted by this licence terminate if you materially breach its conditions, subject to any mandatory notice or cure rights under applicable law. Following termination, stop any use or distribution that depended on these permissions. This does not limit rights you independently hold by law.
+
+## 9. NO WARRANTY; LIMITATION OF LIABILITY
+
+To the maximum extent permitted by applicable law, the Shaderpack is provided "AS IS", without warranties of any kind, including merchantability, fitness for a particular purpose or non-infringement. To that same extent, Jasper Leffers (Imparexa) is not liable for loss or damage arising from use of the Shaderpack. This clause does not exclude liability or consumer rights that cannot lawfully be excluded.
+
+All permissions not expressly granted are reserved to Jasper Leffers (Imparexa), to the extent those rights exist under applicable law.
